@@ -1,0 +1,30 @@
+Notepad++ v8.7.1 bug-fixes & new enhancements:
+
+ 1. Update cURL in Notepad++ updater (WinGUp) for fixing cURL's CVE-2024-7264 issue.
+ 2. Fix opened network files hanging while the network disconnected.
+ 3. Fix not being able to open folder via cammand argument regression.
+ 4. Update to Scintilla 5.5.3 & Lexilla 5.4.1.
+ 5. Fix modified Find dialog status msg colors not being remembered through sessions.
+ 6. Fix hanging issue while hiding lines.
+ 7. Make left behide hide line close marker removable.
+ 8. Fix Find dialog status bar wrong messaging (regression).
+ 9. Fix URL parsing issue with '?' after '#'.
+10. Add "Close to system tray" ability.
+11. Add tab created time tooltip for new opened untitled tab.
+12. Improve GUI to avoid user confusion between Global override & Default Styles.
+
+
+Get more info on
+https://notepad-plus-plus.org/downloads/v8.7.1/
+
+
+Included plugins:
+
+1.  NppExport v0.4
+2.  Converter v4.6
+3.  Mime Tool v3.1
+
+
+Updater (Installer only):
+
+* WinGUp (for Notepad++) v5.3.1

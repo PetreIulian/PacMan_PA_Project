@@ -5,8 +5,8 @@ cmake_minimum_required(VERSION 3.5)
 
 # Make file names absolute:
 #
-get_filename_component(filename "C:/Users/Petre Ioan Iulian/CLionProjects/PacMan/cmake-build-debug/_deps/raylib-tmp/5.5.tar.gz" ABSOLUTE)
-get_filename_component(directory "C:/Users/Petre Ioan Iulian/CLionProjects/PacMan/cmake-build-debug/_deps/raylib-src" ABSOLUTE)
+get_filename_component(filename "D:/PacMan_PA_Project/cmake-build-debug/_deps/raylib-tmp/5.5.tar.gz" ABSOLUTE)
+get_filename_component(directory "D:/PacMan_PA_Project/cmake-build-debug/_deps/raylib-src" ABSOLUTE)
 
 message(VERBOSE "extracting...
      src='${filename}'
